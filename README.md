@@ -8,7 +8,15 @@
 - transforming operators [link](https://gist.github.com/torpedo87/5a47d5b8f7f2a0c279d8f52ec1553fed)
 - combining operators [link](https://gist.github.com/torpedo87/f93306f4f9397bc4142ac54ac2521c8d)
 
+
+---
+
+## AVFoundation
+- AVFoundation [link](https://gist.github.com/torpedo87/e1c6b55992cc41e812b8d9e049c7302c)
+
 ---
 
 ## Drawing
 - 
+
+---
