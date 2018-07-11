@@ -20,3 +20,6 @@
 - 
 
 ---
+
+## Command line
+- bash [link](https://gist.github.com/torpedo87/308f8a68f43a691276ef6c8eadd57725)
