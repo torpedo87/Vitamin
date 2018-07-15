@@ -23,3 +23,7 @@
 
 ## Command line
 - bash [link](https://gist.github.com/torpedo87/308f8a68f43a691276ef6c8eadd57725)
+
+
+## Design pattern
+- [link](https://gist.github.com/torpedo87/2ff421b910db38a12e2fc04b5a6031ac)
