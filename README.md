@@ -28,3 +28,7 @@
 
 ## Design pattern
 - [link](https://gist.github.com/torpedo87/2ff421b910db38a12e2fc04b5a6031ac)
+
+
+## programming 패러다임
+- 함수형 프로그래밍(https://gist.github.com/torpedo87/14c1116b84edba4274be6e74863ff697)
