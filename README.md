@@ -38,3 +38,6 @@
 - [함수형 프로그래밍](https://gist.github.com/torpedo87/14c1116b84edba4274be6e74863ff697)
 - [프로토콜 지향 프로그래밍](https://gist.github.com/torpedo87/1dd09f3242d52d9469ed38f2a542813f)
 
+
+## Dynamic Swift
+- [link](https://gist.github.com/torpedo87/68d5fd09ca9793d6d8ccea0edb1cd0e8)
