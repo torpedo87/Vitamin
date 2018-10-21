@@ -46,3 +46,7 @@
 
 ## TextKit
 - [link](https://gist.github.com/torpedo87/26e0de8c7a032d5dc4c7f8a4b39cd049)
+
+
+## CloudKit
+- [link](https://gist.github.com/torpedo87/8c678892a4c5d1f8913078fd1e6ed52f)
