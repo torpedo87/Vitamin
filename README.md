@@ -33,6 +33,7 @@
 
 ## Design pattern
 - [link](https://gist.github.com/torpedo87/2ff421b910db38a12e2fc04b5a6031ac)
+- [intro](https://gist.github.com/torpedo87/a0d6a7dfafc4e82bf32ed49e7c933e80)
 
 
 ---
