@@ -38,6 +38,7 @@
 
 ## Animation
 - [view animation](https://gist.github.com/torpedo87/a8876289037ffd6c72bd565d3a5632d2)
+- [constraint animation](https://gist.github.com/torpedo87/5aef1e2768b1001057f725795c3d5c5a)
 
 ---
 
