@@ -64,3 +64,8 @@
 
 ## createML
 - [link](https://gist.github.com/torpedo87/0c193949f4c2c0908f64e7f1d438677c)
+
+
+
+## I wonder
+- [link](https://gist.github.com/torpedo87/6153039bae18b746a90a12c8c0ba7c4a)
