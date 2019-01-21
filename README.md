@@ -12,6 +12,7 @@
 - combining operators [link](https://gist.github.com/torpedo87/f93306f4f9397bc4142ac54ac2521c8d). [link](https://gist.github.com/torpedo87/2a3c3107c2f49e0dd26fa1e15149937f)
 - time based operators [link](https://gist.github.com/torpedo87/b8c73bc73ac3a0505f138694849158aa)
 - RxCocoa [link](https://gist.github.com/torpedo87/fac8df3739190cb4dfc683bf0426db4b)
+- error handling [link](https://gist.github.com/torpedo87/c4643aa1f7fe8561669295d9e6c35d6a)
 
 
 ---
