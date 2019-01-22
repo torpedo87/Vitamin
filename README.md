@@ -14,6 +14,7 @@
 - RxCocoa [link](https://gist.github.com/torpedo87/fac8df3739190cb4dfc683bf0426db4b)
 - error handling [link](https://gist.github.com/torpedo87/c4643aa1f7fe8561669295d9e6c35d6a)
 - RxTest [link](https://gist.github.com/torpedo87/fd670c928dbd1a78eef81a577a33b860)
+- custom Reactive Extension [link](https://gist.github.com/torpedo87/a876896917b0f8ce92b34a150a1e2479)
 
 
 
