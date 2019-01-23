@@ -20,6 +20,9 @@
 
 ---
 
+## app development flow
+- [link](https://gist.github.com/torpedo87/5b9d31bc44f21578351ff919003bf124)
+
 ## AVFoundation
 - AVFoundation [link](https://gist.github.com/torpedo87/e1c6b55992cc41e812b8d9e049c7302c)
 
