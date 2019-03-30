@@ -56,6 +56,7 @@
 ## programming 패러다임
 - [함수형 프로그래밍](https://gist.github.com/torpedo87/14c1116b84edba4274be6e74863ff697)
 - [프로토콜 지향 프로그래밍](https://gist.github.com/torpedo87/1dd09f3242d52d9469ed38f2a542813f)
+- [POP](https://gist.github.com/torpedo87/36e848659fffc4c96fbc50225eca3577)
 
 
 ## Dynamic Swift
